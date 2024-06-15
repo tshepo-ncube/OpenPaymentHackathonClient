@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Demo Video
+You can watch the demo of this repository here [OpenTuition DEMO](https://www.awesomescreenshot.com/video/28665222?key=a9c9a935ff360fc4a9ac434f3b2bcebb)
+
 ## Getting Started
 
 First, please clone https://github.com/tshepo-ncube/OpenPaymentHackathonServer.git
