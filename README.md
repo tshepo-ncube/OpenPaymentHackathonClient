@@ -7,7 +7,7 @@ The wallet address  will  be connected to UCT account to ensure that the payment
 
 ## Prerequisites
 
-- Node.js installed
+- Node.js installed (v20.12.2)
 - npm (Node Package Manager) installed
 
 ## Getting Started
