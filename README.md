@@ -18,7 +18,7 @@ Follow all the steps on the server repository README.md (on a different IDE wind
 3. run `npm install`
 4. run `npm run dev`
    
-
+NOTE: Please ensure that you're running on port 3000 as the cors policy only allows this port :)
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 
